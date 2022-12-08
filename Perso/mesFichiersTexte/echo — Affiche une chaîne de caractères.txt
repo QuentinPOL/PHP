@@ -1,0 +1,7 @@
+echo — Affiche une chaîne de caractères
+print — Affiche une chaîne de caractères
+strrchr — Trouve la dernière occurrence d'un caractère dans une chaîne
+strstr — Trouve la première occurrence dans une chaîne
+substr_count — Compte le nombre d'occurrences de segments dans une chaîne
+substr — Retourne un segment de chaîne
+explode - Extration de chaine avec un caract et une occurrence
